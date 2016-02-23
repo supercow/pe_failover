@@ -21,7 +21,7 @@ Let's say we have two masters; the primary master we'll call 'mastera' and the s
 - as root
   - puppet module install ipcrm-pe_failover
   - cd /etc/puppetlabs/code/environments/production/modules/pe_failover/scripts
-  - ./setup_passive.sh <paste public key here>
+  - ./setup_passive.sh (paste public key here)
 
 
 
